@@ -10,6 +10,7 @@ def main():
 
     for r in range (rows):
         for c in range (cols):
-            print('*' end='')
+            print('*', end='')
         print()    
 main()
+
