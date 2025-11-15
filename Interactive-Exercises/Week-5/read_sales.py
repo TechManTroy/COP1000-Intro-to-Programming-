@@ -1,5 +1,5 @@
 # This program reads all of the values in
-# the salws.txt file
+# the sales.txt file
 
 def main():
     # Open the sales.txt file for reading.
@@ -30,3 +30,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
